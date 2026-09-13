@@ -5,7 +5,8 @@ Most skincare apps assume you have access to Western brands and a dermatologist 
 It's a Streamlit app powered by an LLM (via Groq) that gives you a personalized AM/PM routine, lets you describe your skin and get a quick read on what's going on, and answers general skincare questions — all in plain, no-jargon language.
 
 **Repo:** [github.com/mairak54782-pixel/Skincare-ai-agent](https://github.com/mairak54782-pixel/Skincare-ai-agent)
-**Live demo:** _add your Streamlit Cloud link here once deployed_
+**Live demo:** https://bellaai-skincare-ai-agent.streamlit.app/
+_
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
